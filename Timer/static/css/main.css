@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    display: block;
+    background: linear-gradient(45deg, rgba(80, 25, 250, 0.68), rgba(245, 99, 206, 0.82));
+    color: #fffffff7;
+    font-size: 3em;
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
+
+#timer {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3em;
+    text-align: center;
+    color: #333;
+}
